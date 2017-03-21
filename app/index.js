@@ -14,7 +14,6 @@ var Verification = require('./pages/verification');
 var Main = require('./pages/main');
 
 class SquadGoals extends Component {
-
     constructor() {
         super()
         this.state = {
